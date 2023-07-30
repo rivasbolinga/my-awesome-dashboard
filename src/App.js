@@ -7,8 +7,8 @@ function App() {
 
   return (
     <main className="column">
-      {error && <p>Authentication Error</p>}
-      {!error && isLoading && <p>Loading...</p>}
+      {error && <h1>Authentication Error</h1>}
+      {!error && isLoading && <h1>Loading...</h1>}
       {!error && !isLoading && (
         <>
           <Login/>
