@@ -1,0 +1,55 @@
+.login-container {
+  background-color: white;
+  border-radius: 20px;
+  height: 350px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  h1 {
+    font-size: 30px;
+    margin: 14px;
+  }
+  button {
+    color: white;
+    background-color: rgba(43, 52, 226, 0.634);
+    text-transform: capitalize;
+  }
+  .link-to-register {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 400px) {
+  .login-container {
+  height: 400px;
+  width: 320px;
+  
+  input {
+    font-size: 15px;
+    padding: 10px;
+    width: 80%;
+    border-radius: 15px;
+  }
+}
+}
+@media (min-width: 768px) {
+  .login-container {
+  height: 500px;
+  width: 400px;
+  h1 {
+    font-size: 40px;
+  }
+  
+  input {
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  }
+   button {
+    font-size: 20px;
+  }
+}
+}
