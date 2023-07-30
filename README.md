@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="140" alt="logo" src="https://github.com/rivasbolinga/my-awesome-dashboard/assets/103900838/1ba794b5-3896-49b4-b044-2603d6d3fec3">
+<img width="100" alt="logo" src="https://github.com/rivasbolinga/my-awesome-dashboard/assets/103900838/1ba794b5-3896-49b4-b044-2603d6d3fec3">
 
 
   <h1><b> My awesome dashboard</b></h3>
@@ -50,6 +50,14 @@ My awesome dashboard is a dynamic web application that provides users with a per
 - Log in.
 - Use of Auth0.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+You can see the live version 📍 [here](https://641d8d7503d0240008449391--lucent-yeot-9e456d.netlify.app/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,7 +96,8 @@ To run the project, execute the following command:
 npm start
 ```
 
-
+###  Deployment:
+ I have deployed it with netifly.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
