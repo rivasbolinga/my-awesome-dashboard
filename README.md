@@ -22,7 +22,8 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Tests](#tests)
+  - [Install](#install)
+  - [Deploymen](#deployment)
 - [👥 Authors](#authors)
 - [🔮 Future features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -149,7 +150,7 @@ If you like this project give it a star 🌟🌟🌟
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank **![Microverse](https://img.shields.io/badge/Microverse-blueviolet)** 
+I would like to thank [Juubix](https://www.juubix.co.uk/nft/) for the opportinuty. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
