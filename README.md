@@ -19,6 +19,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🚀Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -61,7 +62,7 @@ My awesome dashboard is a dynamic web application that provides users with a per
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-You can see the live version 📍 [here](https://641d8d7503d0240008449391--lucent-yeot-9e456d.netlify.app/)
+You can see the live version 📍 [here](https://my-awesomedashboard.netlify.app/)
 
 
 
