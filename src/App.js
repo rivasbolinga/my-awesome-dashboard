@@ -1,6 +1,6 @@
-import LoginButton from './components/LoginButton'
+import Login from './components/Login'
 import LogoutButton from './components/LogoutButton'
-import Profile from './components/Profile'
+import Dashboard from './components/Dashboard'
 import { useAuth0 } from '@auth0/auth0-react'
 
 function App() {
@@ -13,9 +13,9 @@ function App() {
       {!error && isLoading && <p>Loading...</p>}
       {!error && !isLoading && (
         <>
-          <LoginButton />
+          <Login/>
           <LogoutButton />
-          <Profile />
+          <Dashboard />
         </>
       )}
     </main>
