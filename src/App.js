@@ -1,7 +1,6 @@
-import Login from './components/Login'
-import LogoutButton from './components/LogoutButton'
-import Dashboard from './components/Dashboard'
-import { useAuth0 } from '@auth0/auth0-react'
+import Login from './components/Login';
+import Dashboard from './components/Dashboard';
+import { useAuth0 } from '@auth0/auth0-react';
 
 function App() {
   const { isLoading, error } = useAuth0()
