@@ -13,7 +13,6 @@ function App() {
       {!error && !isLoading && (
         <>
           <Login/>
-          <LogoutButton />
           <Dashboard />
         </>
       )}
